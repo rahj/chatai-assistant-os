@@ -5,15 +5,14 @@ INSTALL <br/><br/>
 RealTime TTS <br/>
 pip install realtimetts[all] <br/><br/>
 
-Piper TTS
-issues on python 3.12.x on Ubuntu 24.4
-https://github.com/rhasspy/piper/issues/509
-https://github.com/rhasspy/piper/issues/384
-https://github.com/rhasspy/piper/issues/395
+Piper TTS <br/>
+issues on python 3.12.x on Ubuntu 24.4 <br/>
+https://github.com/rhasspy/piper/issues/509 <br/>
+https://github.com/rhasspy/piper/issues/384 <br/>
+https://github.com/rhasspy/piper/issues/395 <br/><br/>
 
-pip install piper-phonemize-cross
-pip install piper-tts --no-deps
-
+pip install piper-phonemize-cross <br/>
+pip install piper-tts --no-deps <br/><br/>
 
 ffmpeg <br/>
 pip install ffmpeg <br/>
