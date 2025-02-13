@@ -22,11 +22,11 @@ sudo apt install ffmpeg <br/>
 
 SETUP API KEYS FOR THESE SERVICES <br/><br/>
 
-# GROQ API KEY <br/>
+GROQ API KEY <br/>
 GROQ_API_KEY="KEYS HERE" <br/><br/>
 
-# GOOGLE GEN AI API KEY <br/>
+GOOGLE GEN AI API KEY <br/>
 GOOGLE_GENAI_API_KEY="" <br/><br/>
 
-# OPENAI API KEY <br/>
+OPENAI API KEY <br/>
 OPENAI_API_KEY="" <br/><br/>
