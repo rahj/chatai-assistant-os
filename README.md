@@ -65,7 +65,7 @@ OPENAI_API_KEY="" <br/><br/>
 ## INSTRUCTIONS 
 
 1. Create Python Environment <br/>
-2. Create Environment file for your environment variables in the root folder named .env 
+2. Create Environment file for your environment variables in the root folder named ".env" without the quotes. <br/> 
 The main services used in the Chat AI Bot is from Groq, you can just disregard the Google Gen AI and Open AI.
 <br/><br/>
 
