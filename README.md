@@ -28,7 +28,7 @@ pip install openai <br/><br/>
 
 **Note**
 
-This install below is only for the computer vision capabilities. <br/><br/>
+The packages below is only for the computer vision capabilities. <br/><br/>
 
 RealTime TTS <br/>
 pip install realtimetts[all] <br/><br/>
@@ -49,7 +49,7 @@ sudo apt install ffmpeg <br/>
 <br/>
 
 <hr>
-
+<br/>
 
 ## SETUP API KEYS FOR THESE SERVICES 
 
@@ -64,21 +64,22 @@ OPENAI_API_KEY="" <br/><br/>
 
 ## INSTRUCTIONS 
 
-1. Create Python Environment
+1. Create Python Environment <br/>
 2. Create Environment file for your environment variables in the root folder named .env 
 The main services used in the Chat AI Bot is from Groq, you can just disregard the Google Gen AI and Open AI.
+<br/><br/>
 
-# GROQ API KEY
-GROQ_API_KEY="keys-here"
+**GROQ API KEY** <br/>
+GROQ_API_KEY="keys-here" <br/><br/>
 
-# GOOGLE GEN AI API KEY
-GOOGLE_GENAI_API_KEY="keys-here"
+**GOOGLE GEN AI API KEY** <br/>
+GOOGLE_GENAI_API_KEY="keys-here" <br/><br/>
 
-# OPENAI API KEY
-OPENAI_API_KEY="keys-here"
+**OPENAI API KEY** <br/>
+OPENAI_API_KEY="keys-here" <br/><br/>
 
-3. Install necessary dependencies listed above
-4. Adjust the variables for the Chat AI Bot name and the prompt according to your needs, however the i prompt i made is more than enough. 
-5. Adjust the LLM model accordingly. 
+3. Install necessary dependencies listed above <br/>
+4. Adjust the variables for the Chat AI Bot name and the prompt according to your needs, however the i prompt i made is more than enough. <br/> 
+5. Adjust the LLM model accordingly.  <br/>
 6. Enjoy! 
 
