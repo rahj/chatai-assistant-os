@@ -83,3 +83,10 @@ OPENAI_API_KEY="keys-here" <br/><br/>
 5. Adjust the LLM model accordingly.  <br/>
 6. Enjoy! 
 
+## SCREENSHOTS
+
+![chatai-assistant-opensource](https://github.com/user-attachments/assets/c50599ee-d05c-4717-9b49-c575930219f5)
+<br/>
+![chatai-assistant-opensource-2](https://github.com/user-attachments/assets/453b4c56-6216-4e29-bdde-0b9bbea309c2)
+<br/>
+![chatai-assistant-opensource-3](https://github.com/user-attachments/assets/3e4956b6-3d99-4449-bb10-0ccc87887e04)
