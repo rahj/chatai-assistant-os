@@ -1,7 +1,7 @@
 ## INTRODUCTION
 
 This is a Chat AI bot that i released as an Open Source version, which i redacted some 
-information i used during my testing phase. The original version of this AI Bot has both the Chat AI and Computer vision capabilities, which i will be releasing as an Open Source in a separate repository. The code for this Chat AI Bot still contains some of the Computer vision functionalities. If you found any issues or bug report, submit it in issue link. 
+information i used during my testing phase. The original version of this AI Bot has both the Chat and Voice command AI with Computer vision capabilities, which i will be releasing as an Open Source in a separate repository. The code for this Chat AI Bot still contains some of the Computer vision functionalities. If you found any issues or bug report, submit it in issue link. 
 <br/><br/>
 
 ## INSTALL 
