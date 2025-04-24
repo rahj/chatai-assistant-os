@@ -82,6 +82,7 @@ OPENAI_API_KEY="keys-here" <br/><br/>
 4. Adjust the variables for the Chat AI Bot name and the prompt according to your needs, however the i prompt i made is more than enough. <br/> 
 5. Adjust the LLM model accordingly.  <br/>
 6. Enjoy! 
+<br/><br/>
 
 ## SCREENSHOTS
 
