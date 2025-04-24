@@ -6,6 +6,10 @@ information i used during my testing phase. The original version of this AI Bot 
 
 ## INSTALL 
 
+**Note**
+
+Some of the packages below is only for the voice command and computer vision capabilities. <br/><br/>
+
 Open CV2 <br/>
 pip install opencv-contrib-python <br/><br/>
 
@@ -25,10 +29,6 @@ OpenAI <br/>
 pip install openai <br/><br/>
 
 <hr>
-
-**Note**
-
-The packages below is only for the computer vision capabilities. <br/><br/>
 
 RealTime TTS <br/>
 pip install realtimetts[all] <br/><br/>
